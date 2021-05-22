@@ -6,3 +6,4 @@
 ### 4. Pasada hacia adelante
 ### 5. Actualizacion
 ### 6. Ejemplo completo: aprendizaje funcion logica AND y graficacion.
+
